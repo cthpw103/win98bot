@@ -31,7 +31,7 @@ client.on('message', msg => {
     };
 // recursion
   if (msg.content === 'recursive tag') {
-    msg.reply('.tag recursive')
+    msg.channel.sendMessage('.tag recursive')
     };
 // lol
   if (msg.content === 'doom') {
