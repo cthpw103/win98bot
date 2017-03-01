@@ -27,7 +27,7 @@ client.on('message', msg => {
     };
 // god help us
   if (msg.content === 'hunter') {
-    msg.reply('Hunter is dead.  LLOL NVM HE BACK LOL HE SUCK MORE JULIA PUSSY! $
+    msg.reply('Hunter is dead.  LLOL NVM HE BACK LOL HE SUCK MORE JULIA PUSSY! HE WILL SHOVE MEMZ UP HER BUTTHOLE AGAIN!')
     };
 // recursion
   if (msg.content === 'recursive tag') {
