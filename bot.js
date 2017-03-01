@@ -43,6 +43,6 @@ client.on('message', msg => {
     case '#avatar': // this should do it
       msg.reply(msg.author.avatarURL);
       break;
-});
+}});
 
 client.login('token goes here');
