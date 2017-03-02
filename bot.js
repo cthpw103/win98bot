@@ -14,13 +14,13 @@ client.on('message', msg => {
       msg.reply('Can you just fuck off? Actually learn a programming language.');
       break;
     case '#invite':
-      msg.reply('silly you this is a selfbot');
+      msg.reply('https://discordapp.com/oauth2/authorize?&client_id=229794047865126913&scope=bot&permissions=0');
       break;
     case '#hack':
       msg.reply('Trolled. You cannot hack discord you skid unless you are a faggot.');
       break;
     case '#help':
-      msg.reply('`#minecraftsucks | Get a SMK-type response.` `rd | Cancer.` `#invite | Gives an invite to the bot.` `#hack | Runs a dank exploit that gives you ownership.` `#avatar | Gets your avatar.`');
+      msg.reply('`#minecraftsucks | Get a SMK-type response.` `rd | Cancer.` `#invite | Gives an invite to the bot.` `#hack | Runs a dank exploit that gives you ownership.` `#avatar | Gets your avatar.` `#yee | Yee.`');
       break;
     case 'memz': // kill me now
       msg.reply('https://www.youtube.com/watch?v=2k0SmqbBIpQ');
