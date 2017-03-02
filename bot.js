@@ -43,6 +43,9 @@ client.on('message', msg => {
     case '#avatar': // this should do it
       msg.reply(msg.author.avatarURL);
       break;
+    case '*15':
+      msg.channel.sendMessage('hi guyz astrik 15 hr and tody we wll be runnn the new rc7');
+      break;
 }});
 
 client.login('token goes here');
