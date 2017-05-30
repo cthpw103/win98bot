@@ -26,7 +26,7 @@ client.on('message', msg => {
       msg.reply('https://www.youtube.com/watch?v=2k0SmqbBIpQ');
       break;
     case 'hunter': // god help us
-      msg.reply('Hunter is dead.  LLOL NVM HE BACK LOL HE SUCK MORE JULIA PUSSY! HE WILL SHOVE MEMZ UP HER BUTTHOLE AGAIN!');
+      msg.reply('Hunter is dead.  LLOL NVM HE BACK LOL HE SUCK MORE JULIA PUSSY! HE WILL SHOVE MEMZ UP HER BUTTHOLE AGAIN! PLOT TWIST! I AM ACTUALLY THEREALSTINGY/VVPOOPS VV/WHATEVER FAKE NAME I WANT TO USE');
       break;
     case 'recursive tag': // recursion
       msg.channel.sendMessage('.tag recursive');
